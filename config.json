@@ -1,0 +1,20 @@
+{
+    "src" :{
+    	"html":"src/**.html",
+    	"js":"src/js/*.js",
+    	"css":"src/css/*.css",
+    	"image":"src/images/*"
+    },
+    "develop" : {
+    	"html":"./develop",
+    	"js":"./develop/js",
+    	"css":"./develop/css",
+    	"image":"./develop/images"
+    },
+    "dest" : {
+    	"html":"./dest",
+    	"js":"./dest/js",
+    	"css":"./dest/css",
+    	"image":"./dest/images"
+    }
+}
